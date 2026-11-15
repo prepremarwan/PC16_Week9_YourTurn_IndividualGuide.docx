@@ -1,0 +1,7 @@
+name: pc16_week9_oop
+description: PC16 Week 9 - Object-Oriented Programming in Dart (Part 1). A console-based Jeepney OOP program.
+version: 1.0.0
+publish_to: none
+
+environment:
+  sdk: ^3.0.0
